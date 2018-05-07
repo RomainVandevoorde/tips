@@ -1,4 +1,4 @@
-# Rappel Git Push
+# Procédure pour Push
 
 ## 1. "Sélectionner" les fichiers à envoyer    
 `git add *fichier*`    
