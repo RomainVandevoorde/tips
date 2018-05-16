@@ -7,7 +7,7 @@ Pour les exemples suivants, on va partir du code de base que vous pouvez trouver
 
 Après chaque explication, un lien Codepen vous permettra d'accéder rapidement au résultat si vous le désirez.
 
-##display: flex
+## display: flex
 
 Pour démarrer, il nous suffit d'entrer cette ligne de code dans le CSS du conteneur (``.container``).
 
@@ -56,3 +56,19 @@ BOUM ! C'est centré verticalement.
 Si vous effacez le ``flex-direction: column;`` du conteneur, ou que vous remplacez ``column`` par ``row``, le flex passera en mode rangée.
 
 Comme avec les colonnes, vous pouvez centrer le contenu ou lui faire prendre toute la place disponible.
+
+Testons quelque chose de plus intéressant...
+
+## Proportions
+
+Au lieu d'attribuer ``flex: 1;`` à tous les éléments, appliquez le à un seul des éléments (via les classes bg1, bg2 ou bg3).
+
+Vous remarquerez que l'élément auquel vous attribuez ce flex devient énorme, alors que les autres sont "écrasés".
+Logique ! Cet élément a reçu l'instruction de s'étendre le plus possible, mais les autres non.
+
+Maintenant, ajoutez ``flex: 1;`` à un autre élément. 
+Maintenant que deux éléments ont reçu l'instruction de s'étendre, ils vont se partager équitablement l'espace libre, et feront tous les deux la même largeur.
+
+[Codepen](https://codepen.io/romainvandevoorde/pen/yjRKMN)
+
+L'équité c'est bien sympa... Mais moi j'aime bien le bleu, alors je voudrais que l'élément 1 prenne la moitié de la place
