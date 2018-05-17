@@ -87,10 +87,10 @@ J'ai essayé d'introduire dans ce guide l'utilisation basique de flex de façon 
 **Il ne présente pas toutes les possibilités que flexbox offre.**
 
 Le meilleur moyen pour vous de bien comprendre comment ça fonctionne, c'est d'expérimenter dans Codepen.
-C'est valable pour tous les principes du CSS.
+C'est valable pour tous les principes du CSS: 
 Allez dans Codepen, créez des blocs avec des bordures et des backgrounds colorés et expérimentez !
 
 ## Liens utiles
 
-[Css-Tricks - A complete guide to flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+[Css-Tricks - A complete guide to flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)    
 [Tuto en français sur le MDN](https://developer.mozilla.org/fr/docs/Web/CSS/Disposition_flexbox_CSS/Concepts_de_base_flexbox)
