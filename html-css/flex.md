@@ -45,9 +45,7 @@ Enlevez le ``flex: 1;`` des éléments enfants et ajoutez le code suivant au CSS
 
     justify-content: center;
 
-BOUM ! C'est centré verticalement.
-
-*Drops mike*
+Et voilà ! C'est centré verticalement !
 
 [Codepen](https://codepen.io/romainvandevoorde/pen/KRGQGE)
 
