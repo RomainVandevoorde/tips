@@ -26,29 +26,33 @@ Tapez ``div.banana``, vous obtiendrez:
 <div class="banana"></div>
 ```
 Tapez ``div#apple``, vous obtiendrez:
-    <div id="apple"></div>
-
+```
+<div id="apple"></div>
+```
 Concrètement, si vous tapez uniquement une classe ou un id, par défaut Emmet créera un ``div``.
 
 Tapez ``.carrot``, vous obtiendrez:
-    <div class="carrot"></div>
-
+```
+<div class="carrot"></div>
+```
 ## Enfants
 
 Tapez ``div>p``, vous obtiendrez:
+```
     <div>
       <p></p>
     </div>
-
+```
 Tapez ``section>div>a``, vous obtiendrez:
+```
     <section>
       <div><a href=""></a></div>
     </section>
-
+```
 ## Multiplicateurs
 
 Tapez ``header>nav>a*5``, vous obtiendrez
-
+```
     <header>
       <nav>
         <a href=""></a>
@@ -58,9 +62,9 @@ Tapez ``header>nav>a*5``, vous obtiendrez
         <a href=""></a>
       </nav>
     </header>
-
+```
 Tapez ``section>div*2>a*3``, vous obtiendrez:
-
+```
     <section>
       <div>
         <a href=""></a>
@@ -73,25 +77,27 @@ Tapez ``section>div*2>a*3``, vous obtiendrez:
         <a href=""></a>
       </div>
     </section>
-
+```
 ## Frères
 
 Tapez ``article>h2+p``, vous obtiendrez:
 
+```    
     <article>
       <h2></h2>
       <p></p>
     </article>
+```
 
 ## Contenu
 
 Tapez ``article>(h2>{Hello World})+p>lorem10``, vous obtiendrez:
-
+```
     <article>
       <h2>Hello World</h2>
       <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Esse, ab.</p>
     </article>
-
+```
 ``lorem`` suivi d'un nombre *x* génère *x* mots de [Lorem Ipsum](https://fr.wikipedia.org/wiki/Faux-texte).
 
 # Conclusion
