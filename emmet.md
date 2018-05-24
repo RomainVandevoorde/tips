@@ -13,15 +13,18 @@ Allez, on passe à l'action !
 ## Utilisation de base
 
 Tapez ``div`` et appuyez sur TAB. Vous devriez obtenir:
-    <div></div>
+```
+<div></div>
+```
 
 Voilà. C'est comme ça que fonctionne Emmet. Vous écrivez ce que vous voulez, vous appuyez sur TAB, il crée vos balises.
 
 ## Classes et IDs
 
 Tapez ``div.banana``, vous obtiendrez:
-    <div class="banana"></div>
-
+```
+<div class="banana"></div>
+```
 Tapez ``div#apple``, vous obtiendrez:
     <div id="apple"></div>
 
