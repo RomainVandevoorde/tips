@@ -105,3 +105,9 @@ Tapez ``article>(h2>{Hello World})+p>lorem10``, vous obtiendrez:
 Emmet offre beaucoup d'autres possibilités, ainsi qu'un système similaire pour générer du CSS. Pour plus d'informations, consultez la [documentation officielle](https://docs.emmet.io/).
 
 Bon coding !
+
+# Téléchargement
+
+Emmet est disponible sous forme de plugin pour la plupart des IDEs:
+
+[Page de téléchargement officielle](https://emmet.io/download/)

@@ -8,6 +8,6 @@ Quelques conseils par ci par la... Si vous avez une suggestion/une demande viend
 
 [Flex](/html-css/flex.md)
 
-### autres
+### Autres
 
 [Emmet](emmet.md)
