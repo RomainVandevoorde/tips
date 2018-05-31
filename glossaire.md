@@ -11,8 +11,9 @@
 
 **Récursion**: Quand une fonction s'appelle elle même lors de son exécution, formant ainsi une "boucle" dans l'exécution de votre code.
 
-**Opérateurs**: Les opérateurs sont simplement les symboles utilisés dans le code. Il y en a plusieurs types:
+**Opérateurs**: Les opérateurs sont simplement les symboles utilisés dans le code. Il y en a plusieurs types:    
+    * *Opérateurs d'affectation*: Ils servent à attribuer une valeur à une variable. Le plus courant étant évidemment `=`    
+    * *Opérateurs logiques*: Par exemple `===` en JS/PHP, qui vérifie si deux variables ont la même valeur **et** le même type.    
+    * *Opérateurs arithmétiques*: Les opérations mathématiques, par exemple `+`, `-`, `/`, etc...
 
-*Opérateurs d'affectation*: Ils servent à attribuer une valeur à une variable.    
-*Opérateurs logiques*: Par exemple `===` en JS/PHP, qui vérifie si deux variables ont la même valeur **et** le même type.    
-*Opérateurs arithmétiques*: Les opérations mathématiques, par exemple `+`, `-`, `/`, etc...
+[Liste des opérateurs Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators)
