@@ -17,3 +17,34 @@
     * *Opérateurs arithmétiques*: Les opérations mathématiques, par exemple `+`, `-`, `/`, etc...
 
 [Liste des opérateurs Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators)
+
+**Concaténation**: Opération qui consiste à "coller" deux chaînes de texte ensemble.
+
+**Type**: En programmation, toute forme de donnée est associée à un type. Les plus courants en Javascript sont
+    * *string* (chaîne de texte)
+    * *boolean* (valeur booléenne: *true* ou *false*)
+    * *integer* (nombre entier)
+    * *float* (nombre à virgule)
+    * *object* (un objet)
+
+###Fonctions / Functions
+
+**Déclaration**: Lorsque vous écrivez le code que la fonction devra exécuter, vous **déclarez** la fonction. *EN:* declaration
+
+**Paramètres** ou **Arguments**: Les données qu'acceptera la fonction et qu'elle utilisera lors de son exécution. *EN*: parameters, arguments
+
+**Appel**: Lorsque vous utilisez une fonction dans votre code, vous l'**appellez**. D'abord on déclare une fonction, ensuite on l'appelle. *EN*: function call
+
+### Boucles
+
+**Itération**: Une itération est une exécution du code contenu dans la boucle.
+
+### Objets
+
+**Propriété**: Une propriété est une variable contenue dans un objet. *EN*: property
+
+**Méthode**: Une méthode est une fonction contenue dans un objet. *EN*: method
+
+**Clé** ou **Attribut**: Dans un objet, les propriétés et méthodes sont associées à une clé, qui est en somme le nom de cette propriété/méthode. *EN*: key, attribute
+
+**Valeur**: La valeur associée à une clé. Peut être une propriété ou une méthode. On parle souvent de pair clé/valeur. (key-value pair)
